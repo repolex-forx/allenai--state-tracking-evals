@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/allenai/state-tracking-evals/commit/6ffbc01a914fee53dbc80ec944c4bc7779104292",
       "git:hexsha": "6ffbc01a914fee53dbc80ec944c4bc7779104292",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T19:30:16.027766+00:00"
     }
   ]
 }
