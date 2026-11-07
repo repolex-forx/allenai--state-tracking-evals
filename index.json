@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "state-tracking-evals",
+  "versions": [
+    {
+      "commit": "6ffbc01a914fee53dbc80ec944c4bc7779104292",
+      "tag": "",
+      "parsed_at": "2026-11-07T19:30:16.028153+00:00"
+    }
+  ]
+}
